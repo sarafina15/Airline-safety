@@ -1,1 +1,2 @@
 # Airline-safety
+  ✈Although the airline industry started more than a century ago in 1903, it took this industry more than 20 years after that to turn airlines into a commonplace for transportation. Between 1903 and 1925, it would take courage to get onto an airplane because everyone at that time thought that it was a risky endeavor. Throughout the years, airlines have seen many innovations in both technological changes and safety enhancement. 
